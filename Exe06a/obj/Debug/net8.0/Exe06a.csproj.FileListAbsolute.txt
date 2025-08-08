@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\bin\Debug\net8.0\Exe06a.exe
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\bin\Debug\net8.0\Exe06a.deps.json
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\bin\Debug\net8.0\Exe06a.runtimeconfig.json
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\bin\Debug\net8.0\Exe06a.dll
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\bin\Debug\net8.0\Exe06a.pdb
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\Exe06a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\Exe06a.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\Exe06a.AssemblyInfo.cs
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\Exe06a.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\Exe06a.dll
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\refint\Exe06a.dll
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\Exe06a.pdb
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\Exe06a.genruntimeconfig.cache
+C:\Users\User\Desktop\acuti\Index meus\MySolution\Primum\Exe06a\obj\Debug\net8.0\ref\Exe06a.dll
